@@ -11,6 +11,8 @@ Autor: [Gutierrez Cepeda Andres] y [pitonC] Este documento explica cómo conecta
 - **Cables Dupont** para conexión
 - **Software de terminal** (PuTTY, Minicom, Tera Term, etc.)
 
+  ![Descripción del cable](https://m.media-amazon.com/images/I/41uimvvUC+L._AC_UF894,1000_QL80_.jpg)
+
 ## Conexión del Cable FTDI a la SBC
 
 El adaptador FTDI convierte USB en señales seriales TTL. Conéctalo de la siguiente manera:
